@@ -1,0 +1,32 @@
+.favoriteItem {
+  max-width: 960px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 10px;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 26%);
+  border-radius: 5px;
+}
+
+.favoriteItem h2 {
+  font-size: 1.15rem;
+  margin: 1.25rem 0;
+  text-align: center;
+}
+
+.favoriteItem p {
+  margin: 0.25rem 0;
+}
+
+.favoriteItem table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.favoriteItem td, .favoriteItem  th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.btnContainer { text-align: center; margin-top: 1.5rem }

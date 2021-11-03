@@ -5,7 +5,7 @@ eCommerce web app written in React
 Little setup for react redux un functional programming. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-For first usage in your CLI run ### `npm install` to install the dependencies in the local node_modules folder 
+For first usage in your CLI run `npm install` to install the dependencies in the local node_modules folder 
 
 In the project directory, you can run:
 
